@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8664
     wikipedia: http://it.wikipedia.org/wiki/Luigi_Gualdo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20639#La-gran-rivale
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2007-02-21'
 gutenberg_type: Text
